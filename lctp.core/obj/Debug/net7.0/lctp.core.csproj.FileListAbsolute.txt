@@ -1,0 +1,17 @@
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.core.deps.json
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.core.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.core.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.infra.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.libs.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.infra.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.core\bin\Debug\net7.0\lctp.libs.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.csproj.AssemblyReference.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.AssemblyInfoInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.AssemblyInfo.cs
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.csproj.CoreCompileInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.csproj.CopyComplete
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\refint\lctp.core.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\lctp.core.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.core\obj\Debug\net7.0\ref\lctp.core.dll

@@ -1,0 +1,11 @@
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\bin\Debug\net7.0\lctp.libs.deps.json
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\bin\Debug\net7.0\lctp.libs.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\bin\Debug\net7.0\lctp.libs.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.AssemblyInfoInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.AssemblyInfo.cs
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.csproj.CoreCompileInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\refint\lctp.libs.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\lctp.libs.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.libs\obj\Debug\net7.0\ref\lctp.libs.dll

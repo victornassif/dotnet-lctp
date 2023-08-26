@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "154c56f4-653d-4a8f-98c3-bd3eed60226b": {
+      "ProjectGuid": "154c56f4-653d-4a8f-98c3-bd3eed60226b",
+      "DisplayName": "lctp.api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.csproj.AssemblyReference.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.AssemblyInfoInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.AssemblyInfo.cs
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.csproj.CoreCompileInputs.cache
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\bin\Debug\net7.0\lctp.infra.deps.json
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\bin\Debug\net7.0\lctp.infra.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\bin\Debug\net7.0\lctp.infra.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\refint\lctp.infra.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\ref\lctp.infra.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\bin\Debug\net7.0\lctp.libs.dll
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\bin\Debug\net7.0\lctp.libs.pdb
+D:\Dev\Dotnet\lctp\lctp\lctp.infra\obj\Debug\net7.0\lctp.infra.csproj.CopyComplete
