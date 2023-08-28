@@ -29,7 +29,7 @@ namespace lctp.infra
 
             #region JWT
 
-            var key =  Encoding.ASCII.GetBytes(config["SecretToken"]);
+            var key = Encoding.ASCII.GetBytes(config["SecretToken"]);
             services.AddAuthentication(x =>
             {
                 x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -52,7 +52,7 @@ namespace lctp.infra
             #region database
             services.AddDbContext<SQLServerDbContext>(options =>
             {
-                options.UseSqlServer(config["ConnectionString:db"]);
+                options.UseSqlServer(config["ConnectionString:db"], b => b.MigrationsAssembly("lctp.infra"));
             });
 
             #endregion
@@ -60,7 +60,7 @@ namespace lctp.infra
             #region repositories
 
             services.AddScoped<IBaseRepository<UserModel>, UserRepository<UserModel>>();
-            
+
             #endregion
 
             #region general

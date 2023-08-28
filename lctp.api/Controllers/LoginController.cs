@@ -1,6 +1,4 @@
 ﻿using lctp.core.Services;
-using lctp.infra;
-using lctp.infra.Context;
 using lctp.libs.Models;
 using Microsoft.AspNetCore.Mvc;
 

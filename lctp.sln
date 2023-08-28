@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lctp.core", "lctp.core\lctp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lctp.infra", "lctp.infra\lctp.infra.csproj", "{551DD496-B877-442F-B231-18A44E08CAB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lctp.tests", "lctp.tests\lctp.tests.csproj", "{7A7372BB-46D7-4A1E-8044-F616A844B7E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{551DD496-B877-442F-B231-18A44E08CAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{551DD496-B877-442F-B231-18A44E08CAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{551DD496-B877-442F-B231-18A44E08CAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7372BB-46D7-4A1E-8044-F616A844B7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7372BB-46D7-4A1E-8044-F616A844B7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7372BB-46D7-4A1E-8044-F616A844B7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7372BB-46D7-4A1E-8044-F616A844B7E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
